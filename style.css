@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: Muli, sans-serif;
+}
+.color {
+  float:left;
+  width: 5%;
+  height: 20px;
+}
+#colors, #temps {
+  margin-left: 100px;
+  height: 20px;
+}
+#chart {
+  margin-top: -80px;
+  margin-bottom: -30px;
+
+}
+.axislabel {
+  font-size: 1em;
+  font-weight: 500;
+
+}
+text {
+  margin-top: 5px;
+  vertical-align: bottom;
+  padding-top: 10px;
+}
